@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://mkparmar1.github.io/Personal_Portfolio_Website/](https://mkparmar1.github.io/Personal_Portfolio_Website/)
+- 👨‍💻 All of my projects are available at [https://mkparmar1.github.io](https://mkparmar1.github.io)
 
 - 💬 Ask me about **PHP/Laravel**
 
